@@ -1,0 +1,11 @@
+.inputcard{
+    /* background-color:  rgb(154, 112, 253); */
+    border-radius: 28px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-content: center;
+    margin-top: 88vh;
+    position: fixed;
+    
+  };

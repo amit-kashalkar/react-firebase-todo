@@ -1,0 +1,18 @@
+.indcard{
+  display: flex;
+  margin: 10px 0px 10px 0px; 
+   padding: 5px 10px 5px 10px;
+    display: flex;
+    background-color: rgb(217, 121, 255);
+    flex-direction: column;
+border-radius: 20px;
+font-size: 20px;
+font-family: monospace;
+font-weight: bold;
+
+}
+.cancelbut{
+align-self:end;
+
+width: 30px;
+}
